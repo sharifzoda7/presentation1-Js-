@@ -22,3 +22,7 @@ The object data type can contain:
 1. An object
 2. An array
 3. A date
+
+# Conditions in JavaScript:
+## 1.If/Else Condition :
+![](./1*fPzvsqHnbFWKxncw_1-x3w.png)
