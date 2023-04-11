@@ -72,8 +72,8 @@ The object data type can contain:
 
 ##  There are 3 ways of writing a function in JavaScript
 
-1.Function Declaration
-2.Function Expression
-3.Arrow Function Expression
+1. Function Declaration
+2. Function Expression
+3. Arrow Function Expression
 
 ![](./%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-04-11%20%D0%B2%2015.20.51.png)
