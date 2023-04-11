@@ -23,6 +23,9 @@ The object data type can contain:
 2. An array
 3. A date
 
+# Variables and Constants In Js:
+![](./cover-3.png)
+
 # Conditions in JavaScript:
 ## 1.If/Else Condition :
 ![](./1*fPzvsqHnbFWKxncw_1-x3w.png)
